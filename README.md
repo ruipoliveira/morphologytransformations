@@ -3,12 +3,11 @@
 Morphological operations on binary images.
 Operações morfológicas sobre imagens binárias. 
 
-Technologies:
-OpenCV
-Qt 
+* Technologies: OpenCV, Qt 
 
-IDE: 
-Qt Creator 
+* IDE: Qt Creator 
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pX9zcBZWwjA/0.jpg)](http://www.youtube.com/watch?v=pX9zcBZWwjA)
 
 Update output on image: pressed F5
 
